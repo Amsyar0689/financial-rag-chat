@@ -7,3 +7,7 @@ chromadb
 pypdf
 python-dotenv
 tiktoken
+# new addition for full-stack dev
+fastapi
+uvicorn
+pydantic
